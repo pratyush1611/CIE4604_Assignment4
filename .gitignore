@@ -1,3 +1,6 @@
 data/
 las_geojson2las_las.fmw
 subset_poly.qgz
+labels.qgz
+las_shapefile2las.fmw
+simVisPratyush.yml
